@@ -1,4 +1,4 @@
-# ZBPS - the Z Binary Package System
+# UNDER LOCKDOWN (RELEASE IN WEEKS) ZBPS - the Z Binary Package System 
 ## Home Directories:
   if you wanna move a dir or anything else into the home directory, do not use "~", use "$HOME"
 ## CommandLib:
